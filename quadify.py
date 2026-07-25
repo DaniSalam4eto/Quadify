@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Quadify",
-    "author": "Made for you",
+    "author": "Dani_Bush_Trip_Sim",
     "version": (3, 2, 0),
     "blender": (3, 6, 0),
     "location": "Top bar > Quadify, and the right-click context menu",
